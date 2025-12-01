@@ -37,9 +37,26 @@ Instalación y configuración inicial
 - 11: Nos quedaria esperar a que termine la instalacion, cuando termine verificar que entre el reinicio y el encendido nuevamente nos da un tiempo para sacar de forma segura nuestro Pendrive  
 Acceso web  
 - 12: Desde otra PC ir a: http:IP:8006)
-- 13: Poner contraseña de root  
-- 14: 
-Videos relacionados:  
+- 13: Poner contraseña de root y una vez dentro en la parte del nombre del servidor hacemos click
+- 14: Tenemos que ir a la parte de Updates, luego en Repositories hacer click, tenemos que hacer Updates pero no tenemos los repos correctos
+- 15: Tenemos que "Deshabilitar" los repos de Proxmox y "Add repo No-Suscription"
+- 16: Luego si vamos a poder hacer el "Update" correctamente  
+
+Canales de Youtube donde encontrar videos de ayuda (poner canal + proxmox):
+> **DriveMeca:**  
+> https://www.youtube.com/@DriveMeca
+
+> **No Solo Hacking:**  
+> https://www.youtube.com/@NoSoloHacking
+
+> **Tecnocratica:**  
+> https://www.youtube.com/@TecnocraticaNet
+
+> **Jonatan Castro**  
+> https://www.youtube.com/@JonatanCastro
+
+> **Escuela de Informatica**  
+> https://www.youtube.com/@escuela_de_informatica
 
 → Repositorio: proxmox-basico  
   
